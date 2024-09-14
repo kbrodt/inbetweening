@@ -1,0 +1,6 @@
+file 'test_dvor_wman_hr_lama_FIN_man/chargan_000/out_chargan_ens_25.mp4'
+file 'test_dvor_wman_hr_lama_FIN_man/chargan_000/out_chargan_ens_50.mp4'
+file 'test_dvor_lady_lama_FIN_man/chargan_000/out_chargan_ens_25.mp4'
+file 'test_dvor_lady_lama_FIN_man/chargan_000/out_chargan_ens_50.mp4'
+file 'test_aladin_p3_0_6_copy_FIN_man/chargan_000/out_chargan_ens_25.mp4'
+file 'test_aladin_p3_0_6_copy_FIN_man/chargan_000/out_chargan_ens_50.mp4'

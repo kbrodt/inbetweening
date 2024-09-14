@@ -1,0 +1,2 @@
+Comparisons with EISAI [Chen and Zwicker 2022],
+AnimeInterp [Siyao et al. 2021] and RIFE [Huang et al. 2022]

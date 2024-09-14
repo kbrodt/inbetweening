@@ -1,0 +1,65 @@
+{
+    "type": "stick4",
+
+    "_comment_joints": "left and right must be presented if there are symmetric parts",
+    "joints": [
+        "wheel",
+        "ring",
+        "rear window",
+        "fron window",
+        "front"
+    ],
+
+    "dj": [
+        [0.5, 0.5],
+        [0.5, 0.2],
+        [0.7, 0.3],
+        [0.8, 0.4],
+        [0.8, 0.5]
+    ],
+
+    "root": "wheel",
+
+    "skeleton": [
+        [
+            0, 1
+        ],
+        [
+            0, 2
+        ],
+        [
+            2, 3
+        ],
+        [
+            3, 4
+        ]
+    ],
+
+    "_coment_parents2d": [
+       "BVH (bfs order) ./assets/skeleton2d.png",
+       "spine",
+       "l arm",
+       "head",
+       "r arm",
+       "r leg",
+       "l leg"
+    ],
+    "parents2d": [
+        -1, 0, 1, 1,
+        3, 4
+    ],
+
+    "parents2d_to_kps": [
+        0, 0, 1, 2,
+        3, 4
+    ],
+
+    "zero_inds": [
+        "wheel"
+    ],
+
+    "names": [
+        "root", "wheel", "ring", "rear window",
+        "front window", "front"
+    ]
+}

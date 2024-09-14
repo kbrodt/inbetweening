@@ -1,0 +1,2 @@
+Skeleton-Driven Inbetweening of Bitmap Character Drawings
+Submission ID: 692

@@ -1,0 +1,20 @@
+opencv-python>=4.10.0.84
+Pillow>=10.4.0
+libigl>=2.5.1
+matplotlib>=3.9.1
+networkx>=3.3
+optuna>=3.6.1
+pyrender>=0.1.45
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch>=2.4.0
+triangle>=20230923
+shapely>=2.0.5
+scikit-image>=0.24.0
+albumentations>=1.4.12
+timm>=0.9.2
+segmentation-models-pytorch>=0.3.3
+pytorch-minimize>=0.0.2
+simple-lama-inpainting>=0.1.0
+# after `pip install -r requirements.txt` update the following packages:
+# PyOpenGL>=3.1.7
+# numpy>=2.0.0
